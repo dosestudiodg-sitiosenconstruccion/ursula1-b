@@ -33,7 +33,7 @@ https://templatemo.com/tm-516-known
   }
 
   h2 {
-    color: #353535;
+    color: #ddaab3;
     font-size: 2em;
     padding-bottom: 10px;
   }
@@ -399,6 +399,88 @@ https://templatemo.com/tm-516-known
   /*---------------------------------------
       FEATURE              
   -----------------------------------------*/
+
+  .feature-thumb {
+    border: 1px solid #f0f0f0;
+    padding: 5em 3em;
+  }
+
+  .feature-thumb span {
+    background: #444e33;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .feature-thumb h3 {
+    margin: 10px 0;
+  }
+
+  .feature-thumb {
+    border: 1px solid #f0f0f0;
+    padding: 5em 3em;
+  }
+
+  .feature-thumb span {
+    background: #444e33;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .feature-thumb h3 {
+    margin: 10px 0;
+  }
+
+  /*---------------------------------------
+      FEATURE              
+  -----------------------------------------*/
+  .section-title2 {
+    color: #d7d6c5;
+  }
+  .acomp {
+    color: #eed5d9;
+  }
+  .feature-thumb2 {
+    padding: 2em 3em;
+  }
+   .acompp {
+    color: #efe4e4;
+	font-size: 18px;
+  }
+
+
+  .feature-thumb2 span {
+    background: #ddaab3;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .feature-thumb h3 {
+    margin: 10px 0;
+  }
 
   .feature-thumb {
     border: 1px solid #f0f0f0;
