@@ -55,7 +55,12 @@ https://templatemo.com/tm-516-known
     line-height: 24px;
   }
 
-
+  .lista {
+    line-height: 24px; 
+	color: #757575;
+    font-size: 14px;
+    font-weight: normal;
+  }
 
   /*---------------------------------------
      GENERAL               
